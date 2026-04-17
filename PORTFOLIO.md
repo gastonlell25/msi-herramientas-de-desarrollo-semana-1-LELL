@@ -11,3 +11,11 @@ Soy desarrollador con experiencia en el desarrollo de aplicaciones como **RestoA
 - APIs y backend
 - Experiencia de usuario
 - Productos digitales reales
+
+## Habilidades Técnicas
+
+- Java
+- SQL
+- Angular
+- React
+- Node
